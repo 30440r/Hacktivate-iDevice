@@ -9,7 +9,7 @@ Looking for developers! This is a work in progress. If you think you can add to 
 
 ### Screenshot
 
-![img](https://i.imgur.com/RST0Y09.png)
+![img](https://i.ibb.co/jgvSLZm/hfhfghfgfghgh.png)
 
 ### Supported Devices
 
