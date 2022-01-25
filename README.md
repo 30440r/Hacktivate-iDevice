@@ -1,6 +1,6 @@
 # iOS Hacktivation Toolkit
 
-<a href="https://github.com/30440r/hackivate"><img src="https://badgen.net/badge/Working%20on%20latest%20version/Unknown/red" alt="is it working"></a>
+<a href="https://github.com/30440r/hackivate"><img src="https://badgen.net/badge/Working%20on%20latest%20version/Unknown/orange" alt="is it working"></a>
 <a href="https://github.com/30440r/hackivate"><img src="https://badgen.net/badge/Latest%20Supported%20Version/13.6.1%20is%20last%20tested/orange" alt="latest version"></a>
 
 This is an iOS Activation Lock Bypass Tool for ~~MacOS and~~ Linux. 
