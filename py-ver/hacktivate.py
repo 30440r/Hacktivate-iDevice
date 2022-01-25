@@ -5,7 +5,7 @@
 # (c) 2022 30440r
 #
 #========  Maintained by  =======
-# 30440r
+#             30440r
 #======== Thanks to =======
 # Noah Shanaberger, argp, axi0mx, danyl931, jaywalker, kirb, littlelailo
 # nitoTV, nullpixel, pimskeks, qwertyoruiop, sbingner, siguza
@@ -120,8 +120,8 @@ if __name__ == "__main__":
 # Proudly written in VSCode
 # (c) 2022 30440r
 #
-#========  Made by  =======
-# 30440r
+#========  Maintained by  =======
+#             30440r
 #======== Thanks to =======
 # Noah Shanaberger, argp, axi0mx, danyl931, jaywalker, kirb, littlelailo
 # nitoTV, nullpixel, pimskeks, qwertyoruiop, sbingner, siguza
