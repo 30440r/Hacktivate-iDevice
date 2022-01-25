@@ -24,7 +24,6 @@ import argparse
 import time
 import colorama
 
-# - Used for adding color to the text.
 def format(string, typ):
 	if typ == "info":
 		return colorama.Fore.GREEN + string + colorama.Fore.RESET
@@ -32,7 +31,7 @@ def format(string, typ):
 		return colorama.Fore.CYAN + string + colorama.Fore.RESET
 	else:
 		return colorama.Fore.RED + string + colorama.Fore.RESET
-# - Stole this from online. I'm more accustomed to GoLang now.
+
 def copyFolder(src, dest):
     try:
         shutil.copytree(src, dest)
