@@ -1,19 +1,16 @@
 #
-# Checkra1n hacktivation
+# Hacktivation for checkm8able devices
 #
 # Proudly written in VSCode
-# (c) 2019 Noah Shanaberger
+# (c) 2022 30440r
 #
-#========  Made by  =======
-# Noah Shanaberger
+#========  Maintained by  =======
+# 30440r
 #======== Thanks to =======
-# argp, axi0mx, danyl931, jaywalker, kirb, littlelailo
+# Noah Shanaberger, argp, axi0mx, danyl931, jaywalker, kirb, littlelailo
 # nitoTV, nullpixel, pimskeks, qwertyoruiop, sbingner, siguza
 # haifisch, jndok, jonseals, xerub, lilstevie, psychotea, sferrini
 # Cellebrite (ih8sn0w, cjori, ronyrus et al.)
-#====== Special Note ======
-# Praise the free market!
-#==========================
 
 from bs4 import BeautifulSoup
 import requests
@@ -46,7 +43,6 @@ def copyFolder(src, dest):
         #else:
             #print('Directory not copied. Error: %s' % e)
 
-# - This is used to find and download a macOS copy of checkra1n, and other tools.
 def downloadTools():
 	print(format("- [*] Installing checkra1n.", "info"))
 	releasePage = requests.get("https://checkra.in/releases/")
@@ -77,7 +73,6 @@ def downloadTools():
 	print(format("- [*] usbmuxd installed.", "info"))
 
 
-# - This is used to jailbreak the device, and in turn install SSH.
 def jailbreakDevice():
 	print(format("- [*] We're going to jailbreak your device now.", "info"))
 	input(format("- [!] Put your device into DFU mode. Hit enter when you're in DFU mode.", "prompt"))
@@ -98,7 +93,6 @@ def jailbreakDevice():
 		exit(1)
 	input(format("- [!] Hit enter when it is fully booted.", "prompt"))
 
-# - This code connects to the device, and hacktivates it.
 def hacktivateDevice(port):
 	print(format("- [*] Starting iProxy connection.", "info"))
 	iproxyProc = pexpect.spawn(f"iproxy 2222 {str(port)}")
@@ -121,21 +115,17 @@ def hacktivateDevice(port):
 
 if __name__ == "__main__":
 	print("""#
-# Checkra1n hacktivation
+# Hacktivation for checkm8able devices
 #
 # Proudly written in VSCode
-# (c) 2019 Noah Shanaberger
+# (c) 2022 30440r
 #
 #========  Made by  =======
-# Noah Shanaberger
+# 30440r
 #======== Thanks to =======
-# argp, axi0mx, danyl931, jaywalker, kirb, littlelailo
+# Noah Shanaberger, argp, axi0mx, danyl931, jaywalker, kirb, littlelailo
 # nitoTV, nullpixel, pimskeks, qwertyoruiop, sbingner, siguza
-# haifisch, jndok, jonseals, xerub, lilstevie, psychotea, sferrini
-# Cellebrite (ih8sn0w, cjori, ronyrus et al.)
-#====== Special Note ======
-# Praise the free market!
-#==========================""")
+# haifisch, jndok, jonseals, xerub, lilstevie, psychotea, sferrini""")
 	parser = argparse.ArgumentParser()
 	parser.add_argument("--install", help="Installs nessecary dependencies.", action="store_true")
 	parser.add_argument("--hacktivate", help="Starts the hacktivation process.", action="store_true")
