@@ -61,7 +61,7 @@ chmod +x hacktivation.sh
 sudo ./hacktivation.sh
 ```
 
-Tested on Debian 10 and Ubuntu 20.04
+Untested
 
 Looking for developers! This is a work in progress. If you think you can add to this project please get in touch!
 
