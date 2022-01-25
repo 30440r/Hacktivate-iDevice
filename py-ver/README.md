@@ -1,5 +1,6 @@
-# hacktivate
-Hacktivates iPhones vulnerable to Checkm8 via the Checkra1n jailbreak.
+# hacktivate py-ver
+Hacktivates iPhones vulnerable to Checkm8 via the Checkra1n jailbreak with Python.
+
 # Notice
 Currently this tool ONLY bypasses iCloud. Full hacktivation features are currently being looked into and should come eventually.
 
