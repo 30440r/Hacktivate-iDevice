@@ -7,6 +7,8 @@ This is an iOS Activation Lock Bypass Tool for ~~Windows~~, MacOS and Linux that
 
 Looking for developers! This is a work in progress. If you think you can add to this project please get in touch!
 
+## [Docs](https://github.com/30440r/Hacktivate-iDevice/tree/gh-pages/docs)
+
 ### Screenshot
 
 ![img](https://i.ibb.co/jgvSLZm/hfhfghfgfghgh.png)
