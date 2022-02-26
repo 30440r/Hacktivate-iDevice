@@ -13,6 +13,8 @@ Looking for developers! This is a work in progress. If you think you can add to 
 
 ![img](https://i.ibb.co/jgvSLZm/hfhfghfgfghgh.png)
 
+#
+
 ### Supported Devices
 
 ```
@@ -39,6 +41,8 @@ iPod Touch 2nd Generation
 iPod Touch 1st Generation
 ```
 
+#
+
 ### Features
 
 
@@ -47,6 +51,8 @@ iPod Touch 1st Generation
 - Jailbreak (checkra1n)
 - Activation Lock Bypass for all checkm8 vulnerable devices
 ```
+
+#
 
 ### Install
 
