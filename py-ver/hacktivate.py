@@ -1,7 +1,7 @@
 #
 # Hacktivation for checkm8able devices
 #
-# Proudly written in VSCode
+# Proudly written in Micro
 # (c) 2022 30440r
 #
 #========  Maintained by  =======
@@ -116,7 +116,7 @@ if __name__ == "__main__":
 	print("""#
 # Hacktivation for checkm8able devices
 #
-# Proudly written in VSCode
+# Proudly written in Micro
 # (c) 2022 30440r
 #
 #========  Maintained by  =======
