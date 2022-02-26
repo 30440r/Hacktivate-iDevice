@@ -15,11 +15,11 @@ Looking for developers! This is a work in progress. If you think you can add to 
 
 ```
 iPhone X
-iPhone 8
-iPhone 7
+iPhone 8/8 Plus
+iPhone 7/7 Plus
 iPhone SE
-iPhone 6s
-iPhone 6
+iPhone 6s/6s Plus
+iPhone 6/6 Plus
 iPhone 5s
 
 iPad Pro (2015 & 2017 models)
